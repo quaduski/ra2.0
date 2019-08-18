@@ -1,2 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+$cd~/<your-android-repo-dir>/
+$repo init -u ssh://git@openlinux2.amlogic.com/p-a...m/manifest.git -b p-amlogic -m p-amlogic_openlinux-20190415_aosp.xml
+$repo sync# Auto detect text files and perform LF normalization
